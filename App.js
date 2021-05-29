@@ -24,6 +24,8 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
+import CodePush from 'react-native-code-push';
+
 const App = () => {
   return (
     <>
